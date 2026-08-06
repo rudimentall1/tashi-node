@@ -1,7 +1,17 @@
-# tashi-node
+# Tashi Node
 
-Demo node для проекта **tashi**.
+Node deployment workspace for the Tashi network.
 
-## GitHub Actions CI
+## Purpose
 
-![CI](https://github.com/rudimentall1/tashi-node/actions/workflows/ci.yml/badge.svg)
+Project-specific configuration and automation for node operation and maintenance.
+
+## CI
+
+GitHub Actions provides automated repository checks.
+
+## Status
+
+Infrastructure / node-operations workspace.
+
+Deployment behavior is defined by the repository configuration and workflow files.
